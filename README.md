@@ -1,4 +1,4 @@
-# weather_data2
+# weather_data
 
 This is a python Script for getting the weather forecast for today and forecast for 5 days using data from https://openweathermap.org/.
 
