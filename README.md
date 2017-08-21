@@ -6,6 +6,9 @@ You need an API key to obtain data. View the "How to start" guide at https://ope
 
 Replace 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX' in the APIKEY variable with the key that you get.
 
+## Python
+Python 3 was used but it can easily be adapted to python 2.7.
+If you do not have python installed, I recommend the anaconda python distribution. Download at https://www.continuum.io/downloads
 
 ## Modules to install
 In terminal or cmd type in 
